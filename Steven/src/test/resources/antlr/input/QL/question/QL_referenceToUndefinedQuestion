@@ -1,7 +1,0 @@
-form formname{
-    name BOOLEAN "label"
-    if ( name1 ) {
-        name4 BOOLEAN "label"
-    }
-
-}

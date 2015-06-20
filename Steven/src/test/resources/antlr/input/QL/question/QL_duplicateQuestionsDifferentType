@@ -1,4 +1,0 @@
-form formname{
-    name1 STRING "label"
-    name1 INTEGER "label"
-}

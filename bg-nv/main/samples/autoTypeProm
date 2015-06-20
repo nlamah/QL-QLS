@@ -1,4 +1,0 @@
-form sample {
-    decimal income "Question label" 1+1.2
-    integer tax "Tax label" 1*2/3+3.1
-}

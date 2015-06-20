@@ -1,5 +1,0 @@
-form formname{
-    if ( NAME1 && ((1 * 4) > 3)) {
-        NAME2 BOOLEAN "label"
-    }
-}

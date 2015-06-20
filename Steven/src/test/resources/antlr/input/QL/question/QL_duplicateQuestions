@@ -1,4 +1,0 @@
-form formname{
-    name BOOLEAN "label"
-    name BOOLEAN "label"
-}

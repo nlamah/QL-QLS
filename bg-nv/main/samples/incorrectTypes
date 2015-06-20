@@ -1,3 +1,0 @@
-form sampleForm {
-    boolean question "Sample label" "string"||"anotherString"
-}

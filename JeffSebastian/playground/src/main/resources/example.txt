@@ -1,4 +1,0 @@
-form taxOfficeExample { 
-	integer a : "some question?"
-	integer b : "some question?" (1 + a)
-}

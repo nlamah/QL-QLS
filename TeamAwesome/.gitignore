@@ -1,6 +1,0 @@
-*.pyc
-*.swp
-*.sublime-project
-*.sublime-workspace
-.idea/
-__pycache__/

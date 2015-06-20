@@ -1,2 +1,0 @@
-
-from FileDialog import FileDialog

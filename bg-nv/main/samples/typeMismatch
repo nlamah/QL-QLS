@@ -1,3 +1,0 @@
-form Box1HouseOwning {
-    integer hasSoldHouse "Did you sell a house in 2010?" 1+"string"
-}

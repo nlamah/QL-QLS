@@ -1,5 +1,0 @@
-form formname{
-    if ( true && false) {
-        name4 BOOLEAN "false"
-    }
-}

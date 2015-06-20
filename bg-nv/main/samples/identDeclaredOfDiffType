@@ -1,4 +1,0 @@
-form sampleForm {
-    integer hasSoldHouse "Another sample"
-    boolean hasSoldHouse "Sample"
-}
